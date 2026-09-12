@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sessions & Database files
+sessions/*.db
+sessions/
+
+# Temporary templates
+templates/cloned.html
+
+# OS specific files
+.DS_Store
+Thumbs.db
