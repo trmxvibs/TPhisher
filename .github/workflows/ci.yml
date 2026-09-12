@@ -1,0 +1,28 @@
+name: T-Phisher CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install fastapi uvicorn sqlalchemy beautifulsoup4 httpx colorama
+        
+    - name: Python Syntax Check
+      run: |
+        python -m py_compile tphisher.py core/*.py utils/*.py database/*.py
