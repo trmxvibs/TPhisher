@@ -63,7 +63,10 @@ python tphisher.py
 ## 📸 Working Demos & Preview
 
 ### 1. Proof of Concept (PoC) Working Video:
-https://github.com/trmxvibs/TPhisher/blob/main/assets/working_poc.mp4
+<video width="100%" controls>
+  <source src="assets/working_poc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 2. Homepage / Target Selection:
 ![Homepage](assets/Homepage.png)
