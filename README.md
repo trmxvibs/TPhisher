@@ -58,5 +58,20 @@ python tphisher.py
 
 - Monitor live hits, deep device intel, and captured credentials in your terminal or via the secure Admin Panel link provided at startup.
 
+---
+
+## 📸 Working Demos & Preview
+
+### 1. Proof of Concept (PoC) Working Video:
+https://github.com/trmxvibs/TPhisher/blob/main/assets/working_poc.mp4
+
+### 2. Homepage / Target Selection:
+![Homepage](assets/Homepage.png)
+
+### 3. Localhost Demo & Capture Interface:
+![Localhost Demo](assets/localhost_demo.png)
+
+---
+
 ## ⚠️ Disclaimer
 This tool is created strictly for educational purposes, security research, and authorized penetration testing. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
