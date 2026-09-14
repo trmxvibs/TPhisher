@@ -67,12 +67,17 @@ python tphisher.py
   <source src="assets/working_poc.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+*(Alternative direct link: [Download/View PoC MP4](assets/working_poc.mp4))*
 
 ### 2. Homepage / Target Selection:
-![Homepage](assets/Homepage.png)
+<p align="center">
+  <img src="assets/Homepage.png" width="800" alt="Homepage">
+</p>
 
 ### 3. Localhost Demo & Capture Interface:
-![Localhost Demo](assets/localhost_demo.png)
+<p align="center">
+  <img src="assets/localhost_demo.png" width="800" alt="Localhost Demo">
+</p>
 
 ---
 
