@@ -62,12 +62,12 @@ python tphisher.py
 
 ## 📸 Working Demos & Preview
 
-### 1. Proof of Concept (PoC) Working Video:
-<video width="100%" controls>
-  <source src="assets/working_poc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*(Alternative direct link: [Download/View PoC MP4](assets/working_poc.mp4))*
+### 1. Proof of Concept (PoC) Working Video
+
+<video src="assets/working_poc.mp4" width="100%" controls></video>
+
+👉 **[Download/View PoC MP4](assets/working_poc.mp4)**
+
 
 ### 2. Homepage / Target Selection:
 <p align="center">
